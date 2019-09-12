@@ -1,0 +1,22 @@
+body{
+    background-image: url(fortune-teller.png);
+    background-repeat: no-repeat; 
+    padding-top: 500px;
+    padding-left: 250px;
+}
+
+h1 {
+    color: red;  
+
+}
+label{
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 80px;
+    text-align: left;
+}
+input {
+  display: inline-block;
+  float: left;
+}
